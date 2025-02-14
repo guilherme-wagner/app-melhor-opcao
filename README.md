@@ -1,5 +1,9 @@
 # Política de Privacidade Melhor Opção
 
+Última atualização: 14/02/2025 
+
+Ao utilizar o app Melhor Opção, você concorda com os termos abaixo. Caso não concorde, recomenda-se não utilizar o aplicativo.
+
 ## Coleta de Dados
 - Este aplicativo não coleta ou compartilha nenhum dado pessoal dos usuários.
 - Não coletamos nome, endereço de e-mail, localização ou qualquer outra informação pessoal identificável.
